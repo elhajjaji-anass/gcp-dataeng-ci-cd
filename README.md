@@ -7,6 +7,8 @@ The pipeline provisions data infrastructure (Cloud Storage, BigQuery) and deploy
 
 ## **Project Structure**
 
+```bash
+
 gcp-dataeng-ci-cd/
 ├── imgs/
 │ ├── Architecture.png
